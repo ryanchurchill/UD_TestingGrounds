@@ -1,0 +1,28 @@
+Player health
+
+hud change when enemy targetted
+- or item targetted
+- for enemy, show enemies health
+
+cover
+
+make it scary
+
+more guns
+
+update to latest unreal / vs
+
+health recharges, which is mapped to red post processing effect
+
+lighting
+
+reloading
+
+ammo?
+
+health?
+
+better lighting (Recruiting play testers lecture)
+- and better damage post processing
+
+finish the course!
